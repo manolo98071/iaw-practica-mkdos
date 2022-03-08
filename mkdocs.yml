@@ -1,0 +1,15 @@
+site_name: IAW
+
+nav:
+    - Principal: index.md
+    - Acerca de: about.md
+
+theme:
+  name: material
+  palette:
+    primary: lime
+  language: es
+  logo: images/indice.jpeg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
