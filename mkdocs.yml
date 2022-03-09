@@ -4,7 +4,7 @@ site_author: Manuel Crisol
 
 
 nav:
-    - Principal: index.md
+    - Principal: inicio.md
     - Practica-Prestashop: Practica-Prestashop.md
     - Practica15: Practica15.md
 
@@ -13,10 +13,14 @@ theme:
   palette:
     primary: red
   language: es
-  logo: images/logo/celia.png
+  logo: logo/celia.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
   font:
     text: Roboto
     code: Roboto Mono
+
+extra:
+  version:
+    provider: mike
