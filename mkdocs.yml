@@ -1,15 +1,22 @@
-site_name: IAW
+site_name: IAW - Blog de Manuel Crisol
+site_description: 'Sitio Mkdocs donde se recogen las prácticas de IAW'
+site_author: Manuel Crisol
+
 
 nav:
     - Principal: index.md
-    - Acerca de: about.md
+    - Practica-Prestashop: Practica-Prestashop.md
+    - Practica15: Practica15.md
 
 theme:
   name: material
   palette:
-    primary: lime
+    primary: red
   language: es
-  logo: images/indice.jpeg
+  logo: images/logo/celia.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+  font:
+    text: Roboto
+    code: Roboto Mono
