@@ -4,7 +4,7 @@ site_author: Manuel Crisol
 
 
 nav:
-    - Principal: inicio.md
+    - Principal: index.md
     - Practica-Prestashop: Practica-Prestashop.md
     - Practica15: Practica15.md
 
