@@ -44,6 +44,6 @@ Accedemos a nuestro dominio https://iawprestashop.ddns.net y vemos que tenemos a
 
 Para iniciar sesión, accedemos a nuestro dominio/administration, donde iniciaremos sesión con el correo electrónico y contraseña definidos en las variables del archivo .env:
 
-![]({{ site.url }}/images/2022-03-08-prestashop/2.png)
+![](images/2022-03-08-prestashop/2.png)
 
-![]({{ site.url }}/images/2022-03-08-prestashop/3.png)
+![](images/2022-03-08-prestashop/3.png)

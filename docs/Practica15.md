@@ -30,10 +30,10 @@ En el archivo .env se almacenan las variables requeridas para lanzar los servici
 # Comprobamos el acceso
 Accedemos a nuestro dominio iawpractica15.ddns.net y nos encontramos con la instalación de Wordpress:
 
-![]({{ site.url }}/images/2022-03-08-practica15/2.JPG)
+![](images/2022-03-08-practica15/2.JPG)
 
-![]({{ site.url }}/images/2022-03-08-practica15/3.JPG)
+![](images/2022-03-08-practica15/3.JPG)
 
-![]({{ site.url }}/images/2022-03-08-practica15/4.JPG)
+![](images/2022-03-08-practica15/4.JPG)
 
-![]({{ site.url }}/images/2022-03-08-practica15/5.JPG)
+![](images/2022-03-08-practica15/5.JPG)
