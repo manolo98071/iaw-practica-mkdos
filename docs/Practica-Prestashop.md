@@ -40,7 +40,7 @@ En el archivo .env se almacenan las variables requeridas para lanzar los servici
 
 Accedemos a nuestro dominio https://iawprestashop.ddns.net y vemos que tenemos acceso a PrestaShop:
 
-![]({{ site.url }}/images/2022-03-08-prestashop/1.png)
+![](images/2022-03-08-prestashop/1.png)
 
 Para iniciar sesión, accedemos a nuestro dominio/administration, donde iniciaremos sesión con el correo electrónico y contraseña definidos en las variables del archivo .env:
 
